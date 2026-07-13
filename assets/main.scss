@@ -1,6 +1,11 @@
 ---
 ---
 
-$base-font-size: 18px;
+$base-font-size: 20px;
+$base-line-height: 1.7;
 
 @import "minima";
+
+blockquote {
+  font-size: $base-font-size;
+}
