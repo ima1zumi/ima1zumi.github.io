@@ -4,3 +4,7 @@
 $base-font-size: 18px;
 
 @import "minima";
+
+blockquote {
+  font-size: $base-font-size;
+}
